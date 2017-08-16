@@ -1,5 +1,5 @@
 # Games
 
 # Diablo 3
-# Starcraft
+# Age of Empires
 # Elder Scrolls Skyrim
